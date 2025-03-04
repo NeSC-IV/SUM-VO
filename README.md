@@ -1,3 +1,2 @@
-# SUM-VO
-Code for SUM-VO
-## SUM-VO: Semantic Uncertainty-based Monocular Visual Odometry
+# SUM-VO: Semantic Uncertainty-based Monocular Visual Odometry
+Code will be released after the paper is accepted.
