@@ -3,9 +3,8 @@
 ### TODO:
 
 - [x] 1. The demo video of the experiments in the paper
-- [ ] 2. Code implementation of Panoptic-SLAM on KITTI for experiment
-- [ ] 3. Semantic segmentation network weights and uncertainty generation
-- [ ] 4. Semantic Uncertainty-based odometry with semantic motion consistency check
+- [ ] 2. Semantic segmentation network weights and uncertainty generation
+- [ ] 3. Semantic Uncertainty-based odometry with semantic motion consistency check
 
 ### Demo
 
